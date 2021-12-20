@@ -1,12 +1,11 @@
-name: Jacky Zhao
+name: DL
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  VK Research
 page_title:
   Quartz Example Page
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+#  - link_name: Twitter
+#    link: https://twitter.com/_jzhao
+#  - link_name: Github
+#    link: https://github.com/jackyzha0
