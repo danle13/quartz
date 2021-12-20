@@ -8,7 +8,7 @@ title: "Chapter1_intro"
 
 ## Introduction (200-1k words)
 
-1. 0.0 2010s was an unprecedented time for migration. Vietnamese migrants leaving Viet nam in the form of [labor migration](https://www.ilo.org/hanoi/Areasofwork/labour-migration/lang--en/index.htm). Occurring through Regular and irregular channels. Vietnamese diasporic migration into Vietnam.
+1. 0.0 2010s was an unprecedented time for migration. Vietnamese migrants leaving Viet nam in the form of [labor migration](001.Notes/labor%20migrants.md). Occurring through Regular and irregular channels. Vietnamese diasporic migration into Vietnam.
 
 a. 2019 essex lorry incident resulting in 39 deaths brought to the limelight the treacherous nature of international labor migration (Stuart Hall’s Cosmopolitanism from below).
 

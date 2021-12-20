@@ -23,7 +23,7 @@ Check out:
 				* eg. to Soviet-allied countries 
 					* Phi Hong [Su](005.Authors/Su.md). Cold War Coethnics in Berlin 
 	* Post-1975-1999 
-		* **USA** (3 waves to US. see [Valverde's Movement and Meaning](005.Authors/valverde.md#Movement%20and%20Meaning) also [rutledge](005.Authors/rutledge.md)) 
+		* **USA** (3 waves to US. see [Valverde's Movement and Meaning](005.Authors/valverde.md) also [rutledge](005.Authors/rutledge.md)) 
 			1. 1st Wave (to United States)
 				- **Refugee (boat people)** (push factor) but who is designated refugee status? Who is a refugee and who determines status? migrant/refuge binary (phi hong [Su](005.Authors/Su.md) book intro + jana [Lipman](005.Authors/Lipman.md)’s (p 1) intro) that some are categorized as refugee/migrant and it affects our imaginary. Also Rebecca [Hamlin](005.Authors/Hamlin.md)'s Crossing. 
 			2. 2nd Wave
