@@ -2,7 +2,8 @@
 
 * Literature Review
 * Theoretical Framework
-* Methodology
+* * Methodology Chapter?
+	* Instead write "research methods appendix" 
 	* data collection
 		* beginning jan 2021
 		* sampling and recruitment
