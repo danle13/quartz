@@ -1,3 +1,6 @@
+---
+title: "safran"
+---
 # Safran
 
 ## Bio
