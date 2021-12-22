@@ -5,7 +5,7 @@ title: "Chapter2_westerners"
 
 Check out:
 > - [Research Qs + 2 Narative Arks](000.Chapters/020.diss.2%20Narative%20Arcs%20+%20Research%20Qs.md) and
-> - [Chapters at-a-glance](000.Chapters/010.Chapters%20at-a-glance.md)
+> - [Chapters at-a-glance](000.Chapters/030.Chapters%20at-a-glance.md)
 
 ## Section I: The Vietnamese westerner: **(un)settling home (How second-gen [Viet Kieu](001.Notes/Viet%20Kieu.md) ended up in western countries)
 
