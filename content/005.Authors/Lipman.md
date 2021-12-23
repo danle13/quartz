@@ -1,3 +1,6 @@
+---
+title: "Lipman"
+---
 # Jana Lipman
 
 Lipman, J. K. (2020). _In camps: Vietnamese refugees, asylum Seekers, and repatriates_. Oakland: University of California Press, 2020

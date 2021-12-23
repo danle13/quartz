@@ -4,7 +4,11 @@ title: "Chapter1_intro"
 # Chapter1: (Preface? and) Introduction 
 #organizeme
 
-**Chapter 1** Introduction (write at the end of dissertation)
+# **Chapter 1** Introduction (write at the end of dissertation)
+
+Check out:
+> - [Research Qs + 2 Narative Arks](000.Chapters/010.Two%20Narative%20Arcs%20+%20Research%20Qs.md) and
+> - [Chapter at-a-glance](000.Chapters/030.Chapters%20at-a-glance.md)
 
 ## Introduction (200-1k words)
 
@@ -126,3 +130,11 @@ Online social anchoring
 	* Presentation of data
 		* how i use qualitative data in each chapter. see #barber's dissertation (pg 123) for details.
 		* 
+
+[Chapter1_intro](000.Chapters/Chapter1_intro.md)
+[Chapter2_westerners](000.Chapters/Chapter2_westerners.md)
+[Chapter3_the return](000.Chapters/Chapter3_the%20return.md)
+[Chapter4_ICTs](000.Chapters/Chapter4_ICTs.md)
+[Chapter5](000.Chapters/Chapter5.md)
+[Chapter6](000.Chapters/Chapter6.md)
+[Chapter7](000.Chapters/Chapter7.md)

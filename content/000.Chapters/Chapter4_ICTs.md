@@ -5,9 +5,58 @@ title: "Chapter4_ICTs"
 # **Chapter4**
 
 Check out:
-> - [Research Qs + 2 Narative Arks](000.Chapters/020.diss.2%20Narative%20Arcs%20+%20Research%20Qs.md) and
+> - [Research Qs + 2 Narative Arks](000.Chapters/010.Two%20Narative%20Arcs%20+%20Research%20Qs.md) and
 > - [Chapter at-a-glance](000.Chapters/030.Chapters%20at-a-glance.md)
 
-## How do ICTs create a feeling of connectedness of home?
+## Questions to answer: 
+- [ ] How do ICTs create a feeling of connectedness of home?
+- [ ] Do ICTs create connectedness between coethnics? 
 
-## Do ICTs create connectedness between coethnics? 
+           
+
+**Chapter 4:** **Transnational virtual networks: Mediating assimilation/acculturation via ICTs**
+
+5.0 Is it technology that binds?
+
+ 5.0.1 ﻿Technological explanations for the emergence of more transnational patterns of migration prove to be incomplete when divorced from an analysis of the social relations of production.2 Rather it is the current moment of capitalism as a global mode of production that has necessitated the maintenance of family ties and political allegiances among persons spread across the globe (p. 15) in nations unbound
+
+ 5.0.2 post 1970, capitalist nations found it more profitable to set up production in "periphery" states. "core" economies, such as the US and other Western countries would be essential for managing "the periphery" leading to dramatic changes in the labor markets of these nation-states (p. 26) nations unbound. Also see pg 27 about multination companies bouncing around periphery countries in search of the highest profits
+
+ 5.0.3 Doi Moi policies
+
+ 5.0.4 History of internet in VN
+
+5.1 Forms of and ways media is used
+
+ 5.1.1 fb; yt; IG; tiktok; overseas Vietnamese (linkedin + their own forum); reddit
+
+5.1.1.1 keeping in touch with family and friends in natal home
+
+5.1.2 News. VN Express. Saigoneer. Vietcetera.
+
+5.2 online groups
+
+ Research of Nedelcu, Mihaela-Migrants' New Transnational Habitus: Rethinking Migration Through a Cosmopolitan Lens in the Digital Age
+
+ Goals of joining
+
+ Coethnic connections
+
+ Frequency of physical meetups
+
+5.3 dating and romance (Book: Dealing in desire). History of online dating: when did it become prevalent?. Thai, Hung Cam. 2008. _For Better or For Worse Vietnamese International Marriages in the New Global Economy_. Kings of candy shop journal article)
+
+ 5.2.1 gendered experiences
+
+ 5.2.2 within VK groups?
+
+5.4 Return migration without ICTs?
+
+
+[Chapter1_intro](000.Chapters/Chapter1_intro.md)
+[Chapter2_westerners](000.Chapters/Chapter2_westerners.md)
+[Chapter3_the return](000.Chapters/Chapter3_the%20return.md)
+[Chapter4_ICTs](000.Chapters/Chapter4_ICTs.md)
+[Chapter5](000.Chapters/Chapter5.md)
+[Chapter6](000.Chapters/Chapter6.md)
+[Chapter7](000.Chapters/Chapter7.md)

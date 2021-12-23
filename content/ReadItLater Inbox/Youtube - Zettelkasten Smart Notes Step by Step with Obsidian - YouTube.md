@@ -1,4 +1,4 @@
-[[ReadItLater]] [[Youtube]]
+[[ReadItLater]] [[001.Notes/ict.Youtube]]
 
 # [Zettelkasten Smart Notes: Step by Step with Obsidian - YouTube](https://www.youtube.com/watch?v=ziE6UExsOrs)
 

@@ -1,3 +1,6 @@
+---
+title: "post Colonial Dynamics"
+---
 [[001.Notes/post Colonial Dynamics]]
 
 Anne and Tamsin's [[Barber]] research on international student migrants from Vietnam to Paris, Vancouver, Canada, and the UK. From [[001.Notes/2021.11.5_Two Hybrid Workshop, Olomouc University, Czech Republic]]. 

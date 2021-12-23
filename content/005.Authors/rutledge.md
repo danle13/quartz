@@ -1,3 +1,6 @@
+---
+title: "rutledge"
+---
 # Paul Rutledge
 
 Rutledge, P. (1992). _The Vietnamese experience in America_. Bloomington: Indiana University Press.

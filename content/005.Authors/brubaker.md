@@ -1,3 +1,6 @@
+---
+title: "brubaker"
+---
 # Rogers Brubaker
 
 # Literature Notes

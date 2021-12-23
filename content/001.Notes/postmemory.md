@@ -1,3 +1,6 @@
+---
+title: "postmemory"
+---
 see [hirsch](005.Authors/hirsch.md)
 
 - Taken from [[005.Authors/viet thanh nguyen]]'s *Nothing Ever Dies: Vietnam and the Memory of War*: 

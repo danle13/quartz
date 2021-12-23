@@ -1,3 +1,6 @@
+---
+title: "bias"
+---
 # Bias
 
 ## Class Bias

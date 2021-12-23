@@ -1,3 +1,6 @@
+---
+title: "positionality"
+---
 # Positionality
 
 ## As a 2nd-gen Western-born VK

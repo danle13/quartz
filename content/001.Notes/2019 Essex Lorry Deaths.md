@@ -1,3 +1,6 @@
+---
+title: "2019 Essex Lorry Deaths"
+---
 # Essex Lorry Deaths
 
 ## Literature

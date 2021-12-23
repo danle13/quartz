@@ -1,4 +1,7 @@
-also [[bankston and zhou]]
+---
+title: "Zhou"
+---
+also [bankston and zhou](005.Authors/bankston%20and%20zhou.md)
 
 #readme 
 

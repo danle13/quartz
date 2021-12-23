@@ -1,3 +1,6 @@
+---
+title: "Barber"
+---
 in  #conversation with tamsin [[Barber]] on 2021.12.13
 
 - read ivan [[smalls]]. esp theories of social culturally symbolic [[remittances]] and capital. Taking from different notions of capital. my research around different models around forms of capital and remmitance and shedding new light on them. looking at them through different process and context. complex. multiple groups and can't trace origins, deterritorialized. social remmitances over a generation. 

@@ -1,3 +1,6 @@
+---
+title: "Allen - smart thinking skills for critical understanding and writing-"
+---
 
 ## Source
 [[Attachments/PDFs/already read/Allen - Unknown - smart thinking skills for critical understanding and writing-annotated.pdf]]

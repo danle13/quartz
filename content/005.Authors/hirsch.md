@@ -1,3 +1,6 @@
+---
+title: "hirsch"
+---
 # Marianne Hirsh
 
 ## Literature

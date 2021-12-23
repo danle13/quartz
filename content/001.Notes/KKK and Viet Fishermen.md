@@ -1,3 +1,6 @@
+---
+title: "KKK and Viet Fishermen"
+---
 #racism
 #westernhome
 

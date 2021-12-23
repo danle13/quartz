@@ -2,6 +2,24 @@
 
 # [Emoji cheat sheet for GitHub, Basecamp and other services](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
+:fire:
+:droplet:
+:sunny:
+:cloud:
+:zap:
+:ocean:
+:mushroom:
+:cactus:
+:seedling:
+:key:
+:pushpin:
+:tent:
+:rocket:
+:warning:
+:100:
+:exclamation:
+
+
 However some of the emoji codes are not super easy to remember, _so here is a little cheat sheet_.  
 ✈ **Got a modern browser or Flash enabled? Click the emoji code and it will be copied to your clipboard.**
 

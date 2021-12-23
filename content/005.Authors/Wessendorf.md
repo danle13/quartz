@@ -1,3 +1,6 @@
+---
+title: "Wessendorf"
+---
 # Suzanne Wessendorf
 
 # Literature Notes
