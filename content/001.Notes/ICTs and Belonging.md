@@ -5,7 +5,7 @@ title: "ICTs and Belonging"
 #icts #nedelcu
 
 ## ICTs mentioned by my informants in Viet Nam
-- Facebook
+- [ict.facebook](001.Notes/ict.facebook.md)
 - [ict.Youtube](001.Notes/ict.Youtube.md)
 - [ict.LinkedIn](001.Notes/ict.LinkedIn.md)
 - [ict.Instagram](001.Notes/ict.Instagram.md)
