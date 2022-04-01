@@ -6,4 +6,4 @@ social
 cultural
 symbolic
 
-read ivan [[smalls]]. esp theories of social culturally symbolic [[remittances]] and capital
+read ivan [small](005.Authors/small.md). esp theories of social culturally symbolic [[remittances]] and capital

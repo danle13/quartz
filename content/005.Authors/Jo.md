@@ -1,11 +1,11 @@
 ---
-title: "cosmopolitainism from below"
+title: "Jo"
 ---
 
-# cosmopolitanism from below
+# {{Ji-Yeon O. Jo}}
 
 ## Bio
-- see [hall](hall)
+- 
 
 ## Literature
 ### Monographs 

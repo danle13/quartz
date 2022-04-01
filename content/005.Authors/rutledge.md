@@ -35,4 +35,4 @@ Rutledge, P. (1992). _The Vietnamese experience in America_. Bloomington: Indian
 - PRC
 - Japan
 
-![rutledge-indochinese.refugee.movements.1975.png](/Attachments/rutledge-indochinese.refugee.movements.1975.png)
+![rutledge-indochinese.refugee.movements.1975.png](Attachments/images/rutledge-indochinese.refugee.movements.1975.png)

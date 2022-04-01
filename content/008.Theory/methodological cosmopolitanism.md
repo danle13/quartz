@@ -15,5 +15,5 @@ title: "methodological cosmopolitanism"
 - 
 
 ## Literature Notes
-- see [cosmopolitainism from below](cosmopolitainism%20from%20below)
+- see [cosmopolitainism from below](008.Theory/cosmopolitainism%20from%20below.md)
 - 

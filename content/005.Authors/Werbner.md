@@ -4,7 +4,7 @@ title: "Werbner"
 # Pnina Werbner
 
 ## Main Ideas
-- [[cosmopolitanism]]
+- [[008.Theory/cosmopolitanism]]
 - 
 
 

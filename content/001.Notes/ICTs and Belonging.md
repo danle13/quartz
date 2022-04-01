@@ -1,6 +1,9 @@
 ---
 title: "ICTs and Belonging"
 ---
+
+see also: [belonging](001.Notes/belonging.md)
+
 # Information Communication Technology
 #icts #nedelcu
 
