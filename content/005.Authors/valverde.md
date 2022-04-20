@@ -13,7 +13,7 @@ title: "valverde"
 ### Movement and Meaning 
 (also see [rutledge](005.Authors/rutledge.md))
 - Writes about younger generation and [[001.Notes/postmemory]]. see [[005.Authors/hirsch]] 
-- with distinctive waves, came derogatory terms for subsequent waves from the previous. words like "FOB" (aka fresh off the boat). Class [[bias]] evident. 
+- with distinctive waves, came derogatory terms for subsequent waves from the previous. words like "FOB" (aka fresh off the boat). Class [[001.Notes/bias]] evident. 
 - **1st wave of refugees** (1975 or "75ers")
 	-  75ers. Similar to [rutledge](005.Authors/rutledge.md), writes about receiving "little resistance" from US govt. 
 		- Indochina Migration and Refugee Act of 1975 financed resettlement project

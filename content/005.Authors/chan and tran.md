@@ -4,6 +4,8 @@ title: "chan and tran"
 
 # Chan and Tran
 
+- see also [chan](005.Authors/chan.md)
+
 ## Bio
 - 
 

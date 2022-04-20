@@ -5,6 +5,7 @@ title: "Journals to publish in"
 In conversation with [phi hong su](005.Authors/Su.md)
 publish in very high journals with intention that paper would be rejected but with great commentary. fix paper and then submit to lower tier journal.
 - journalguide.com 
+- [Identities](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=gide20)
 - AJS
 - JSR
 - socius

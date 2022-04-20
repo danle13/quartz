@@ -2,7 +2,7 @@
 title: "{{title}}"
 ---
 
-# {{Name}}
+# {{title}}
 
 ## Bio
 - 

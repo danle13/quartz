@@ -2,7 +2,7 @@
 title: "Pham"
 ---
 
-# {{Andrew T. Pham}}
+# Andrew T. Pham
 
 ## Bio
 - 

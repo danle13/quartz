@@ -16,7 +16,7 @@ title: "chan"
 
 ### Articles 
 -  [Chan and Tran 2011, Recycling Migration and Changing Nationalisms](002.Literature%20Notes/Chan%20and%20Tran%202011,%20Recycling%20Migration%20and%20Changing%20Nationalisms.md)
-- Hybrid diaspora and identitylaundering: a study of the return overseas Chinese Vietnamese in Vietnam in [Journal_Asian Ethnicity](Journal_Asian%20Ethnicity.md)
+- Hybrid diaspora and identitylaundering: a study of the return overseas Chinese Vietnamese in Vietnam in [Journal_Asian Ethnicity](_Spaces/work/Journals/Journal_Asian%20Ethnicity.md)
 - 
 
 ## Literature Notes

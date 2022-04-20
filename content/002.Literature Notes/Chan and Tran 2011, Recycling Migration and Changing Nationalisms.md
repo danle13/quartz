@@ -3,7 +3,7 @@
 
  *Highlight [page 4]:* Two interesting terms provided by our informants nicely distinguish these two groups: refugee Viet kieu and government Viet kieu. This article does not investigate the latter group.
 
- *Highlight [page 5]:* Amidst the positive turn of official policies, more intimate terms such as dong bao, Viet bao and kieu bao have been used in official discourse, and kieu bao has become a standard official term with which to address Viet kieu.
+ *Highlight [page 5]:* Amidst the positive turn of official policies, more intimate terms such as dong bao, Viet bao and kieu bao have been used in official discourse, and kieu bao has become a standard official term with which to address [Viet Kieu](001.Notes/Viet%20Kieu.md). #vietkieu 
 
  *Highlight [page 7]:* Over 90 per cent said that Viet kieu in general lead a more advanced lifestyle than the Vietnamese,
 

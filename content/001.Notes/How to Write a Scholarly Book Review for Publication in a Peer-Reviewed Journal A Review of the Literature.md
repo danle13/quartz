@@ -4,6 +4,9 @@ title: "How to Write a Scholarly Book Review for Publication in a Peer-Reviewed 
 
 from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870990/
 
+- see:
+	- [[Writing Guides/writing guides]]
+
 ## Abstract
 
 ### Purpose:
