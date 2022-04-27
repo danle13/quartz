@@ -16,7 +16,7 @@ title: "Return Migration"
 - [tsuda](005.Authors/tsuda.md)
 - [christou and king](christou%20and%20king)
 - [nguyen-akbar mytoan](005.Authors/nguyen-akbar%20mytoan.md)
-- 
+- [chan and tran](005.Authors/chan%20and%20tran.md)
 
 ## Literature
 - #readme:

@@ -4,7 +4,7 @@ title: "belonging"
 
 # Belonging
 - see [theme.ICTs and Belonging](009.Themes/Identity%20and%20Belonging/theme.ICTs%20and%20Belonging.md)
-- see also [theme.identity](009.Themes/Identity%20and%20Belonging/theme.identity.md)
+- see also [theory.identity](009.Themes/Identity%20and%20Belonging/theory.identity.md)
 
 ## Authors of Identity and belonging
 - see [yuval-davis](005.Authors/yuval-davis.md)
