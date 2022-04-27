@@ -9,7 +9,7 @@ ignoreFiles = [
     "/content/private/*",
     "/content/Attachments/*",
     "/content/DailyNotes/*",
-    "/content/_Spaces/work/Kanazawa Notes/*",
+    "/content/_Spaces/personal/*",
 
 ]
 
