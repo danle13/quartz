@@ -16,4 +16,4 @@ title: "small"
 - 
 
 ## Literature Notes
--
+- concept of [[concept.social remittances]]
