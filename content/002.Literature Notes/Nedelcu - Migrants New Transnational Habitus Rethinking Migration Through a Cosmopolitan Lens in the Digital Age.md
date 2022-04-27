@@ -1,3 +1,11 @@
+---
+title: "Nedelcu - Migrants New Transnational Habitus Rethinking Migration Through a Cosmopolitan Lens in the Digital Age"
+tags: 
+- #digitalmigrants #habitus #cosmopolitanism  
+enableToc: false # do not show a table of contents on this page
+---
+
+
 # Annotation Summary of Migrants New Transnational Habitus Rethinking Migration Through a Cosmopolitan Lens in the Digital Age.pdf.
  *Highlight [1]:* ‘inclusive cosmopolitan’
 

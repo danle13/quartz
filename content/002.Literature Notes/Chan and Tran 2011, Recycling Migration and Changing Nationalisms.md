@@ -1,3 +1,10 @@
+---
+title: "Chan and Tran 2011, Recycling Migration and Changing Nationalisms"
+tags: 
+- #nationalism 
+enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of Chan and Tran 2011, Recycling Migration and Changing Nationalisms.pdf.
  *Highlight [page 3]:* This paper examines the changes in state policies towards overseas subjects and returnees. It argues that the state of origin is an active transnational actor forging a transnational space that accommodates overseas Vietnamese back to the Vietnamese whole. Such state-initiated transnational practices not only tie the diaspora to homeland development, but also construct a pan-Vietnamese discourse aimed at solidifying the Vietnamese nation worldwide.
 

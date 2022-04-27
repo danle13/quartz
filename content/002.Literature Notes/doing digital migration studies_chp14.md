@@ -1,4 +1,12 @@
-# Annotation Summary of 1chp14 doing digital migration studies.pdf.
+---
+title: "1chp14 doing digital migration studies"
+tags: 
+- #digitalmigrants  
+- enableToc: false # do not show a table of contents on this page
+---
+
+# 1chp14 doing digital migration studies
+## Annotation Summary of 1chp14 doing digital migration studies.pdf.
 #methodology 
 
 - see [concept.digital diaspora](008.Theories%20and%20Concepts/concept.digital%20diaspora.md)

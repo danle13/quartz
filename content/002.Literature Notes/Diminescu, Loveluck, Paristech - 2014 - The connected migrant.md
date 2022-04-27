@@ -1,9 +1,17 @@
+---
+title: "Diminescu, Loveluck, Paristech - 2014 - The connected migrant"
+tags: 
+- #digitalmigrants  
+enableToc: false # do not show a table of contents on this page
+---
+
+
 # Annotation Summary of Diminescu, Loveluck, Paristech - 2014 - The connected migrant From migratory Trajectories To migratory Traceabilities.pdf.
  *Highlight [page 1]:* The connecTed migranT: From migraTory TrajecTories To migraTory TraceaBiLiTies All aspects of the migrant experience are affected by the ubiquitous presence of digital technologies. Even before he/she has left, the would-be migrant now usually forms his/her project after a thorough search on Google, rather than after hearing the stories told by those who have returned from emigration.
  *and Note [page 1]:* nice intro on the migrant and how they search the web before they move somewhere
 
  *Highlight [page 2]:* situate migrants firmly within the paradigm of ‘connected presence’ (Licoppe 2004)
- *and Note [page 2]:* [[008.Theories and Concepts/concept.connected presence]]
+ *and Note [page 2]:* [[008.Theories and Concepts/concept.connected copresence]]
 
  *Highlight [page 3]:* Important contributions drawing on ethnographic research (Georgiou 2006), on a comparative analysis of websites based on interviews and investigation of discussion 25 CJMC_5.1_Loveluck_23-39.indd 25 5/3/14 7:31:37 PM
  *and Note [page 3]:* different contributions to ethnographic research relating to digital diasporas. #great 

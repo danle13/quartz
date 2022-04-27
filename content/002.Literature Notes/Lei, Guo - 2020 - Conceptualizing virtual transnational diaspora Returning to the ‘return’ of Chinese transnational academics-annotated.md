@@ -1,3 +1,10 @@
+---
+title: "Lei, Guo - 2020 - Conceptualizing virtual transnational diaspora Returning to the ‘return’ of Chinese transnational academics-annotated"
+tags: 
+- #returnmigration #digitalmigrants  
+enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of Lei, Guo - 2020 - Conceptualizing virtual transnational diaspora Returning to the ‘return’ of Chinese transnational academics-annotated.pdf.
  *Note [1]:* theoretical lens of transnational dias- pora, our
 

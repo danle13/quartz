@@ -1,5 +1,5 @@
 ---
-title: "connected presence"
+title: "connected copresence"
 ---
 
 # Connected Copresense 

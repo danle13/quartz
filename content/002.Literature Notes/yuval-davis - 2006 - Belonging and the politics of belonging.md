@@ -1,3 +1,10 @@
+---
+title: "yuval-davis - 2006 - Belonging and the politics of belonging"
+tags: 
+- #yuval-davis #belonging #politicsofbelonging  
+- enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of Belonging and the politics of belonging(1).pdf.
  *Highlight [3]:* Even in its most stable ‘primordial’ forms, however, belonging is always a dynamic process, not a reified fixity, which is only a naturalized construction of a particular hegemonic form of power relations.
  *and Note [3]:* #belonging as not fixed and a social construct of “particular hegemonic forms of power relations”
@@ -30,7 +37,7 @@
  *and Note [8]:* john [[crowley]] #definition of [[politics of belonging]]. as “dirty work of boundary maintenance”
 
  *Highlight [8]:* Benedict Anderson defined nations as ‘imagined communities’. They are imagined communities, according to Anderson, ‘because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion’.25
- *and Note [8]:* benedict [[anderson]]’s #definition of [[imagined communities]]
+ *and Note [8]:* benedict [[anderson]]’s #definition of [[008.Theories and Concepts/concept.imagined communities]]
 
  *Highlight [8]:* John Crowley, ‘The politics of belonging: some theoretical considerations’, in Andrew Geddes and Adrian Favell (eds), The Politics of Belonging: Migrants and Minorities in Contemporary Europe (Aldershot: Ashgate 1999), 15Á/41.
  *and Note [8]:* john [[crowley]] #readme [[politics of belonging]]

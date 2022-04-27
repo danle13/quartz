@@ -1,11 +1,11 @@
 ---
-title: "{{title}}"
+title: "reed-danahayForeignerMyOwn2015"
 tags: 
 - #example-tag  
 - enableToc: false # do not show a table of contents on this page
 ---
 
-# {{title}}
+# reed-danahayForeignerMyOwn2015
 - 
 
 ## 

@@ -5,7 +5,7 @@ title: "segmented assimilation"
 # segmented assimilation
 see
 - [Zhou](005.Authors/Zhou.md)
-- [portes and zhou](portes%20and%20zhou)
+- [portes and zhou](005.Authors/portes%20and%20zhou.md)
 
 ## Articles
 - Segmented Assimilation Revisited: Types of Acculturation and Socioeconomic Mobility in Young Adulthood

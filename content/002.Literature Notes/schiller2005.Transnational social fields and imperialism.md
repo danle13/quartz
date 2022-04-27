@@ -1,3 +1,10 @@
+---
+title: "schiller2005.Transnational social fields and imperialism"
+tags: 
+- #socialfields #transnationalism 
+- enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of schiller2005.Transnational social fields and imperialism.pdf.
  *Highlight [page 2]:* Drawing from my ethnographic research with fundamentalist Christians and studies of Haitian long-distance nationalism, I argue that in order to develop a theory of globe-spanning power and society, Transnational Studies must examine the relationship between the transnational social ﬁelds and the contemporary restructuring of imperial power.
  *and Note [page 2]:* to develop theory of transnational studies, it needs to include relationship between transnational social fields and contemporary restructuring of imperial power.

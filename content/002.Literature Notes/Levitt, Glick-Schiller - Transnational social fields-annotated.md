@@ -1,3 +1,10 @@
+---
+title: "Levitt, Glick-Schiller - Transnational social fields-annotated"
+tags: 
+- #socialfields  
+enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of Levitt, Glick-Schiller - 3. Transnational social fields-annotated.pdf.
  *Highlight [page 1]:* rethink
  *and Note [page 1]:* deterritorialized

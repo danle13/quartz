@@ -3,11 +3,11 @@ title: "Zhou"
 ---
 see also 
 - [bankston and zhou](005.Authors/bankston%20and%20zhou.md)
-- [[portes and zhou]]
+- [[005.Authors/portes and zhou]]
 
 #readme 
 
-- [[segmented assimilation]]
+- [[008.Theories and Concepts/segmented assimilation]]
 	-  The New Second Generation: Segmented Assimilation and its Variants
 		- DOI: 10.1177/0002716293530001006
 

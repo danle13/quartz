@@ -1,3 +1,10 @@
+---
+title: "yuval-davis, wemyss, cassidy - 2019 - Bordering ( etc.) (z-lib.org)"
+tags: 
+- #yuval-davis #politicsofbelonging #intersectionality   
+- enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of Bordering ( etc.) (z-lib.org).pdf.
 #### Introduction
  *Highlight [1]:* Similarly, borders have been moved away from the territory of their state into the territories of other countries: not only are US border checks taking place in Canadian airports and British ones in Eurostar terminals in continental Europe, but consulates in most countries have effectively turned into passport and visa checkpoints. In this way, the deterritorialisation and reterritorialisation of borders have been taking place globally.

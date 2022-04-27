@@ -7,6 +7,10 @@ disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
+    "/content/Attachments/*",
+    "/content/DailyNotes/*",
+    "/content/_Spaces/work/Kanazawa Notes/*",
+
 ]
 
 [markup]

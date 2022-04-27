@@ -1,3 +1,10 @@
+---
+title: "Lan Hoang - Transnational Labour Migration, Remittances and the Changing Family in Asia by Lan Anh Hoang, Brenda S. A. Yeoh (eds.) (z-lib.org)"
+tags: 
+- #remittances #gender  
+enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of Transnational Labour Migration, Remittances and the Changing Family in Asia by Lan Anh Hoang, Brenda S. A. Yeoh (eds.) (z-lib.org).pdf.
 #### 11 Transnational Labour Migration, Debts and Family Economicsin Vietnam
  *Highlight [283]:* In this chapter we seek to enhance our understanding of the migration–development nexus by exploring an important, albeit usually overlooked, link in the migration chain – how debts incurred to ﬁnance transnational labour migration affect individuals and families. Much of transnational labour migration in Asia is arranged by brokers, legal or illegal, who are known to charge exorbitant fees, thereby driving migrant families into debt (ILO, 2006; Castles and Miller, 2009; Lindquist, 2010). Compounding the situation, the decision to migrate is sometimes made based on inaccurate information, and as a result migrants run a high risk of being cheated, exploited or 283

@@ -1,5 +1,7 @@
 ---
 title: Main Map of Contents
+tags:   
+- enableToc: false # do not show a table of contents on this page
 ---
 
 # Main Map of Contents
@@ -9,4 +11,4 @@ title: Main Map of Contents
 ## 🌱[030.Chapters at-a-glance](000.Chapters/030.Chapters%20at-a-glance.md)
 
 # Authors
-## 📖 [[005.Authors/List of Authors]]
+## 📖 [[005.Authors/000.List of Authors]]

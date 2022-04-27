@@ -1,3 +1,10 @@
+---
+title: "Homing An Affective Topography of Ethnic Korean Return Migration (Ji-Yeon O. Jo) (z-lib.org)"
+tags: 
+- #returnmigration  
+---
+
+
 # Annotation Summary of Homing An Affective Topography of Ethnic Korean Return Migration (Ji-Yeon O. Jo)
 #### Introduction Legacy Migration, Transborder Belongings,and Korean Peoplehood
  *Highlight [2]:* As of 2013, there were an estimated 704,536 diaspora Koreans with foreign citizenship residing in South Korea, a 17 percent increase from the previous year. 1
@@ -38,9 +45,9 @@ idea of “return” is not easy for subsequent generations as they did not come
  *Highlight [6]:* Long and Oxfeld define “return” and “return migration” in a different way. “Return” connotes double or multiple crossings of borders: it can imply short visits, permanent repatriation, circular movements between diaspora and country of origin, or simply the symbolic sense of connecting with one’s ancestral homeland. “Return migration” more specifically denotes either “a lengthy period of residence or a long-term project of resettlement in the reconstructed homeland.” In both return and return-migration contexts, the movement of
  *and Note [6]:* [[Long and Oxfeld]] definition of “return” and “return migration”. 
 
-- [[return vs return migration]] “return” as double or multiple crossings of borders: can be short visit, permanent repatriation, circular movements between diaspora and country of origin, or symbolic sense of connecting with ancestral homeland
+- [[009.Themes/return vs return migration]] “return” as double or multiple crossings of borders: can be short visit, permanent repatriation, circular movements between diaspora and country of origin, or symbolic sense of connecting with ancestral homeland
 
-- [[return vs return migration]] “return migration” as either long period of residence or long-term project of resettlement
+- [[009.Themes/return vs return migration]] “return migration” as either long period of residence or long-term project of resettlement
 
  *Highlight [7]:* Introduction 7 return can be well-planned or spontaneous, voluntary or coerced, welcomed or unwelcomed. Indeed, the concept of return encompasses a range of temporal, spatial, legal, and personal meanings, all of which can be important determinants for how well returnees adjust to the new or renewed homeland or for how they feel “home” (Long and Oxfeld 2004, 4).10
 

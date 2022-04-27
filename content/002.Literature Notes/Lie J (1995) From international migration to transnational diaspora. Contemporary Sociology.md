@@ -1,4 +1,11 @@
-# Annotation Summary of 2077625.pdf.
+---
+title: "Lie J (1995) From international migration to transnational diaspora. Contemporary Sociology"
+tags: 
+- #diaspora   
+- enableToc: false # do not show a table of contents on this page
+---
+
+# Annotation Summary of John Lie international Migration to Transnational Diaspora
 #### p. 304
  *Highlight [p. 304]:* At the same time, transnationalism identifies a multiplicity of migrant networks and communities that transcend received national boundaries. The idea of diaspora-as an unending sojourn across different lands-better captures the emerging reality of transnational networks and communities than the language of immigration and assimilation (see Khachig Th1h1yan's opening essay in Diaspora 1:1, 1991; and Carol Breckenridge and Arjun Appadurai's initial piece in Public Culture 1:1, 1988).
  *and Note [p. 304]:* diaspora as unending sojourn 

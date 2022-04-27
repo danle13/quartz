@@ -1,3 +1,10 @@
+---
+title: "yuval-davis - 2017 - situated intersectionality"
+tags: 
+- #yuval-davis #situatedintersectionality #intersectionality 
+enableToc: false # do not show a table of contents on this page
+---
+
 # Annotation Summary of yuval-davis - 2017 - situated intersectionality.pdf.
  *Highlight [3]:* Fundamental to my approach to situated intersectionality analysis (which I started to develop with Floya Anthias (eg, 1983, 1992) in the early 1980’s, before the term intersectionality was invented by Kimberlé Crenshaw in (1989), is that intersectional analysis should be applied to all people and not just to marginalised and racialised women, with whom the rise of intersectionality theory is historically linked (e.g. Crenshaw, 1989; Hill Collins, 1990; see also Brah & Phoenix, 2004).
  *and Note [3]:* fundamental to [[008.Theories and Concepts/theory.situated intersectionality]] is that it should apply to all people and not only to marginalized and racialized women.

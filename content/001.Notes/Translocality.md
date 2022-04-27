@@ -1,4 +1,21 @@
-sourced from: https://vanyoro.wordpress.com/2016/06/14/what-does-translocality-mean-and-why-does-it-matter-lessons-learnt-from-the-translocality-im-mobility-in-transnational-and-urban-contexts-workshop-in-johannesburg/
+---
+title: "Translocality"
+tags: 
+- #translocality  
+- enableToc: false # do not show a table of contents on this page
+---
+
+# Translocality
+- 
+
+## 
+###
+## 
+###
+## 
+###
+## 
+###sourced from: https://vanyoro.wordpress.com/2016/06/14/what-does-translocality-mean-and-why-does-it-matter-lessons-learnt-from-the-translocality-im-mobility-in-transnational-and-urban-contexts-workshop-in-johannesburg/
 
 # What does translocality mean and why does it matter? Lessons learnt from the Translocality: (im) Mobility in transnational and urban contexts workshop in Johannesburg
 

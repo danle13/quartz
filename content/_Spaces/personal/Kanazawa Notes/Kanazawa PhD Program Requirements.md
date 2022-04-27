@@ -2,7 +2,7 @@
 title: "Doctorate"
 ---
 
-# Doctorate
+# Kanazawa PhD Program Requirements
 
 ## Classes I need in order to graduate
 

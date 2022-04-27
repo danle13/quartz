@@ -1,3 +1,11 @@
+---
+title: "Vertovec - 2017 - transnationalism"
+tags: 
+- #transnationalism  
+enableToc: false # do not show a table of contents on this page
+---
+
+
 # Annotation Summary of Vertovec - 2017 - transnationalism.pdf.
 #### BOOK COVER
  *Highlight [i]:* ‘Transnationalism’ refers to multiple ties and interactions linking people or institutions across the borders of nation-states.

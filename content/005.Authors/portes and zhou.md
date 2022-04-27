@@ -4,7 +4,7 @@ title: "portes and zhou"
 
 # portes and zhou
 see also
-- [[portes]]
+- [[005.Authors/portes]]
 ## Bio
 - 
 
@@ -13,7 +13,7 @@ see also
 - 
 
 ### Articles 
-- [segmented assimilation](segmented%20assimilation.md)
+- [segmented assimilation](008.Theories%20and%20Concepts/segmented%20assimilation.md)
 
 ## Literature Notes
 -

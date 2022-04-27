@@ -1,4 +1,11 @@
-# Annotation Summary of Nedelcu - Unknown - Online Migrants.pdf.
+---
+title: "Nedelcu - Online Migrants"
+tags: 
+- #digitalmigrants -ict -belonging 
+enableToc: false # do not show a table of contents on this page
+---
+
+# Annotation Summary of Nedelcu Online Migrants.pdf.
 #### 2 Co-presence Routines and Ways of Migrant Multiple Belonging in a Polymedia Environment
  *Highlight [3]:* lized identities and biographies and to act at a distance in real time. In the same time, while accelerating integration and incorporation paths in host societies, these practices also allow the defence of particular values and the claim to belonging to a culture of origin while living anywhere in the world (Nedelcu 2010, 2012)
  *and Note [3]:* online memberships allow for belonging to any group while living anywhere in the world.

@@ -4,7 +4,7 @@ title: "Return Migration"
 
 # Return Migration
 - also see
-	- [return vs return migration](return%20vs%20return%20migration.md)
+	- [return vs return migration](009.Themes/return%20vs%20return%20migration.md)
 	- [diasporic returns](diasporic%20returns)
 	- [tsuda](005.Authors/tsuda.md)'s [ethnic return migration](001.Notes/ethnic%20return%20migration.md)
 	- [[christou and king]]'s [[counter-diasporic migration]]
@@ -20,7 +20,7 @@ title: "Return Migration"
 
 ## Literature
 - #readme:
-	- [[jain]], Sonal's [For love and money: second-generation Indian-Americans ‘return’ to India](https://www.semanticscholar.org/paper/c1df19bebefe430c333efb8794c25beb0b4d2eb6)
+	- [[005.Authors/jain]], Sonal's [For love and money: second-generation Indian-Americans ‘return’ to India](https://www.semanticscholar.org/paper/c1df19bebefe430c333efb8794c25beb0b4d2eb6)
 	- [christou and king](christou%20and%20king)
 		- [Cultural geographies of counter-diasporic migration: perspectives from the study of second-generation ‘returnees’ to Greece](https://www.semanticscholar.org/paper/7be8bfc8f4ddab35d6efbfdc3373b4121def05a3)
 	- maintaining strong canadian identity in hong kong
