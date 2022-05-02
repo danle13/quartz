@@ -11,4 +11,4 @@ tags:
 ## 🌱[030.Chapters at-a-glance](000.Chapters/030.Chapters%20at-a-glance.md)
 
 # Authors
-## 📖 [040.List of Authors](005.Authors/040.List%20of%20Authors.md)
+## 📖 [040.List of Authors and Theories](005.Authors/040.List%20of%20Authors%20and%20Theories.md)

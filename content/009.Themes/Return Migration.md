@@ -35,6 +35,6 @@ title: "Return Migration"
 - already read
 	- roots migration
 		- [Wessendorf - 2007 - 'Roots migrants' Transnationalism and 'return' among second-generation Italians in Switzerland-annotated](Attachments/PDFs/Wessendorf%20-%202007%20-%20'Roots%20migrants'%20Transnationalism%20and%20'return'%20among%20second-generation%20Italians%20in%20Switzerland-annotated.pdf)
-	- [2017. Diasporic Returns to the Ethnic Homeland-Tsuda, Changzoo](002.Literature%20Notes/2017.%20Diasporic%20Returns%20to%20the%20Ethnic%20Homeland-Tsuda,%20Changzoo.md)
-	- [2015.reed-danahay-Foreigner My Own](002.Literature%20Notes/2015.reed-danahay-Foreigner%20My%20Own.md)
+	- [2017. Diasporic Returns to the Ethnic Homeland-Tsuda, Changzoo](002.LiteratureNotes/2017.%20Diasporic%20Returns%20to%20the%20Ethnic%20Homeland-Tsuda,%20Changzoo.md)
+	- [2015.reed-danahay-Foreigner My Own](002.LiteratureNotes/2015.reed-danahay-Foreigner%20My%20Own.md)
 	

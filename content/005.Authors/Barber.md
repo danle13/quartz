@@ -13,7 +13,7 @@ in  #conversation with tamsin [[Barber]] on 2021.12.13
 
 - complain to me about viet nam. cultures of work. came over with international companies where the framing is different. 
 
-- [[008.Theories and Concepts/000.Theories to Employ]]: this frameowk loks at this, and this is different. 
+- [[008.TheoriesAndConcepts/000.Theories to Employ]]: this frameowk loks at this, and this is different. 
 
 # Literature
 - JEMS Article Achieving ethnic authenticity through 'return'visits to Vietnam: paradoxes of class and gender among the British-born Vietnamese

@@ -15,4 +15,4 @@ title: "vervotec"
 - 
 
 ## Literature Notes
-- [Vertovec - 2017 - transnationalism](002.Literature%20Notes/Vertovec%20-%202017%20-%20transnationalism.md)
+- [Vertovec - 2017 - transnationalism](002.LiteratureNotes/Vertovec%20-%202017%20-%20transnationalism.md)

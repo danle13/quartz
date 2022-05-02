@@ -17,4 +17,4 @@ title: "natalie nguyen"
 - Nguyen, N. H. C. (2008). “We return in order to take leave”: Memory and the Return Journeys of Vietnamese Women. _Crossroads: An Interdisciplinary Journal of Southeast Asian Studies_, _19_(2), 3–33. http://www.jstor.org/stable/40860887
 
 ## Literature Notes
--[2008.nguyen-We return in order to take leave](002.Literature%20Notes/2008.nguyen-We%20return%20in%20order%20to%20take%20leave.md)
+-[2008.nguyen-We return in order to take leave](002.LiteratureNotes/2008.nguyen-We%20return%20in%20order%20to%20take%20leave.md)

@@ -12,7 +12,7 @@ title: "muller"
 - 
 
 ### Articles 
-- [2021.mullerTransnationalLifeTrajectories](002.Literature%20Notes/2021.mullerTransnationalLifeTrajectories.md)
+- [2021.mullerTransnationalLifeTrajectories](002.LiteratureNotes/2021.mullerTransnationalLifeTrajectories.md)
 	- gendered experiences of return
 
 ## Literature Notes

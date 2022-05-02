@@ -13,7 +13,7 @@ see also
 - 
 
 ### Articles 
-- [segmented assimilation](008.Theories%20and%20Concepts/segmented%20assimilation.md)
+- [segmented assimilation](008.TheoriesAndConcepts/segmented%20assimilation.md)
 
 ## Literature Notes
 -

@@ -9,7 +9,7 @@ title: "Jo, Ji-Yeon"
 
 ## Literature
 ### Monographs 
-- [[008.Theories and Concepts/theory.Homing]]
+- [[008.TheoriesAndConcepts/theory.Homing]]
 
 ### Articles 
 - 

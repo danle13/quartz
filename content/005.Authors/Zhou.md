@@ -7,7 +7,7 @@ see also
 
 #readme 
 
-- [[008.Theories and Concepts/segmented assimilation]]
+- [[008.TheoriesAndConcepts/segmented assimilation]]
 	-  The New Second Generation: Segmented Assimilation and its Variants
 		- DOI: 10.1177/0002716293530001006
 

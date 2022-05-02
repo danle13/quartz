@@ -12,7 +12,7 @@ title: "levitt"
 - 
 
 ### Articles 
-- [Levitt, Glick-Schiller - Transnational social fields-annotated](002.Literature%20Notes/Levitt,%20Glick-Schiller%20-%20Transnational%20social%20fields-annotated.md)
+- [Levitt, Glick-Schiller - Transnational social fields-annotated](002.LiteratureNotes/Levitt,%20Glick-Schiller%20-%20Transnational%20social%20fields-annotated.md)
 
 ## Literature Notes
 -
