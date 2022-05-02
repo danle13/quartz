@@ -1,5 +1,5 @@
 ---
-title: "Homing An Affective Topography of Ethnic Korean Return Migration (Ji-Yeon O. Jo) (z-lib.org)"
+title: "Homing An Affective Topography of Ethnic Korean Return Migration (Ji-Yeon O. Jo)"
 tags: 
 - #returnmigration  
 ---
