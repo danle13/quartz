@@ -1,5 +1,5 @@
 ---
-title: "yuval-davis, wemyss, cassidy - 2019 - Bordering ( etc.) (z-lib.org)"
+title: "yuval-davis, wemyss, cassidy - 2019 - Bordering"
 tags: 
 - #yuval-davis #politicsofbelonging #intersectionality   
 - enableToc: false # do not show a table of contents on this page
