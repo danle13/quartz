@@ -2,7 +2,6 @@
 📄 [[_index|_index]]
 📄 [[8310 1|8310 1]]
 📄 [[8310|8310]]
-📄 [[Article Writing - ICTs and belonging|Article Writing - ICTs and belonging]]
 📄 [[call for papers|call for papers]]
 📄 [[Doi Moi|Doi Moi]]
 📄 [[Guo|Guo]]
