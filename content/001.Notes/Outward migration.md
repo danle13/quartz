@@ -7,6 +7,11 @@ title: "Outward migration"
 - Wiki: [Overseas Vietnamese](https://en.wikipedia.org/wiki/Overseas_Vietnamese)
 - *Overseas Vietnamese* are also often called "[[Viet Kieu]]" or sojourners. 
 
+- #stats on outward migration:
+	- [https://www.migrationdataportal.org/regional-data-overview/south-eastern-asia](https://www.migrationdataportal.org/regional-data-overview/south-eastern-asia)
+- #stats on [foreigners in VN](https://tphcm.chinhphu.vn/nguoi-nuoc-ngoai-cam-nhan-nhip-song-hoi-sinh-101220202210442692.htm) (in vietnamese, need to translate). Does not mean foreign-born Vietnamese returning. All expats in general
+- 
+
 ## from Viet Nam
 - [labor migrants](001.Notes/labor%20migrants.md)
 - [An Tuan Nguyen](005.Authors/An%20Tuan%20Nguyen.md)

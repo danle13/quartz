@@ -5,6 +5,9 @@ enableToc: false # do not show a table of contents on this page
 # Viet Kieu
 #vk #vietkieu
 
+- see [Outward migration](001.Notes/Outward%20migration.md)
+
+
 ## Another name for "overseas vietnamese" or Vietnamese sojourners
 - [Sino-Vietnamese](https://en.wiktionary.org/wiki/Sino-Vietnamese "Sino-Vietnamese") word from _[越僑](https://en.wiktionary.org/wiki/%E8%B6%8A%E5%83%91#Vietnamese "越僑")_.
 
