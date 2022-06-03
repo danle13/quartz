@@ -11,7 +11,7 @@
 📄 [[000.Chapters/036.Chapter6_outro|036.Chapter6_outro]]
 📄 [[000.Chapters/040.Article Writing|040.Article Writing]]
 📄 [[000.Chapters/Annotated Bibliography.docx|Annotated Bibliography.docx]]
-📄 [[000.Chapters/Article Writing - ICTs and belonging|Article Writing - ICTs and belonging]]
+📄 [[000.Chapters/000.Article Writing - ICTs and belonging|Article Writing - ICTs and belonging]]
 📄 [[000.Chapters/chapter outline-Return of the Vietnamese westerners.docx|chapter outline-Return of the Vietnamese westerners.docx]]
 📄 [[000.Chapters/samir-ICTs and migration 4.docx|samir-ICTs and migration 4.docx]]
 🗂️ [[000.Chapters/Article in Progress/_Index_of_Article in Progress|_Index_of_Article in Progress]]
