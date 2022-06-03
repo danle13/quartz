@@ -15,4 +15,4 @@ tags:
 
 
 ## Article Writing 
-- [Article Writing - ICTs and belonging](000.Chapters/Article%20in%20Progress/Article%20Writing%20-%20ICTs%20and%20belonging.md)
+- [Article Writing - ICTs and belonging](000.Chapters/Article%20Writing%20-%20ICTs%20and%20belonging.md)
